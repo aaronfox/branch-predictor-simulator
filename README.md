@@ -88,3 +88,6 @@ The first field is the address of the branch instruction in memory. This field i
 00a3b604 t
 
 00a3b60c n
+
+Example trace files can be found at: https://www.cis.upenn.edu/~milom/cis501-Fall08/homework/hw3/hw3.html
+
