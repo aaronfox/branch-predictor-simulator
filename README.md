@@ -2,6 +2,7 @@ Branch Predictor Simulator
 ==========================
 
 (Latest update: 2016/11/30)
+(But Aaron Fox is updating this on 10/20/2020)
 
 ## Introduction
 
