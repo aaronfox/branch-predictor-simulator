@@ -6,6 +6,7 @@
 #include "btb.h"
 #include "bp.h"
 
+// Parses argyments input to command line
 void parse_arguments(int argc, char * argv[], Predictor *type, uint32_t* width)
 {
 	if (argc < 6 || argc > 9 || argc == 8)
