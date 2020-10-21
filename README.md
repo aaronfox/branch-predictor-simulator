@@ -6,15 +6,13 @@ Branch Predictor Simulator
 
 ## Introduction
 
-This is a branch predictor simulator for Bimodal, Gshare, Hybrid, and YehPatt implementations branch predictors.
+This is a branch predictor simulator for Bimodal, Gshare, Hybrid, and YehPatt branch predictors.
 
 ## Usage
 
-Using the command shown as follows.
-
 To compile the program,
 
->make
+> make
 
 To run the program,
 
@@ -52,7 +50,7 @@ To run the program,
 
 ### Output
 
-The output of program includes
+The output of this program includes
 
 1. The commandline content
 
